@@ -21,4 +21,10 @@ public class GitTest extends Activity{
         Log.e("myMessage","caojun");
         Log.e("myMessage","caojun3");
     }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Log.e("myMessage","onStart");
+    }
 }
