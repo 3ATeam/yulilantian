@@ -14,6 +14,11 @@ public class GitTest extends Activity{
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.e("myMessage","caojun");
+        Log.e("myMessage","caojun");
+        Log.e("myMessage","caojun");
+        Log.e("myMessage","caojun");
+        Log.e("myMessage","caojun");
+        Log.e("myMessage","caojun");
         Log.e("myMessage","caojun3");
     }
 }
