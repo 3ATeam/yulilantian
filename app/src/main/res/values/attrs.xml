@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="Ring_winth" format="integer" />
+    <attr name="Ring_color" format="color" />
+    <attr name="Fillet_winth" format="integer" />
+    <attr name="Fillet_color" format="color" />
+
+    <declare-styleable name="MyView">
+
+
+        <attr name="Ring_winth" />
+        <attr name="Ring_color" />
+        <attr name="Fillet_winth" />
+        <attr name="Fillet_color" />
+
+
+    </declare-styleable>
+
+
+</resources>
